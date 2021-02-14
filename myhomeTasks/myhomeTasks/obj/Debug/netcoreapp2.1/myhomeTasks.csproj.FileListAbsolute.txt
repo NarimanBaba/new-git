@@ -1,0 +1,11 @@
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\bin\Debug\netcoreapp2.1\myhomeTasks.deps.json
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\bin\Debug\netcoreapp2.1\myhomeTasks.runtimeconfig.json
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\bin\Debug\netcoreapp2.1\myhomeTasks.runtimeconfig.dev.json
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\bin\Debug\netcoreapp2.1\myhomeTasks.dll
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\bin\Debug\netcoreapp2.1\myhomeTasks.pdb
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\obj\Debug\netcoreapp2.1\myhomeTasks.csprojAssemblyReference.cache
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\obj\Debug\netcoreapp2.1\myhomeTasks.csproj.CoreCompileInputs.cache
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\obj\Debug\netcoreapp2.1\myhomeTasks.AssemblyInfoInputs.cache
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\obj\Debug\netcoreapp2.1\myhomeTasks.AssemblyInfo.cs
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\obj\Debug\netcoreapp2.1\myhomeTasks.dll
+C:\Users\Hp Omen\Desktop\code academy\p121\14.02.2021\myhomeTasks\myhomeTasks\obj\Debug\netcoreapp2.1\myhomeTasks.pdb
